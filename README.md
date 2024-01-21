@@ -14,7 +14,7 @@
 #percentage of students with a passing english score (50 or greater)
 #percentage of students who passed maths and reading (% Overall Passing)
 #Print summary
-
+https://github.com/SonalBhosle23/pandas-challenge/blob/main/Local%20Government%20Area%20(LGA)%20Summary.png
 
 School Summary
 
