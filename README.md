@@ -21,27 +21,29 @@ School Summary
 # define dataframes first
 # define dataframes to hold your calculations
 # Create dataframe to hold and display school summary
- 
+
+https://github.com/SonalBhosle23/pandas-challenge/blob/main/School%20Summary.png 
+
 Highest-Performing Schools (by % Overall Passing)
 
 # Create dataframe to view Highest-Performing Schools (by % Overall Passing)
- 
+ https://github.com/SonalBhosle23/pandas-challenge/blob/main/Highest-Performing%20Schools%20(by%20%25%20Overall%20Passing).png
 Lowest-Performing Schools (by % Overall Passing)
 
 
 # Create dataframe to view Lowest-Performing Schools (by % Overall Passing)
- 
+ https://github.com/SonalBhosle23/pandas-challenge/blob/main/Lowest-Performing%20Schools%20(by%20%25%20Overall%20Passing).png
 
 Maths Scores by Year
 
 #create DataFrame that lists the average maths score for students of each year level (9, 10, 11, 12) at each school.
- 
+ https://github.com/SonalBhosle23/pandas-challenge/blob/main/Maths%20Scores%20by%20Year.png
 Reading Scores by Year
 
 
 #create DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
  
-
+https://github.com/SonalBhosle23/pandas-challenge/blob/main/Reading%20Scores%20by%20Year.png
 Scores by School Spending
 
 
@@ -51,7 +53,7 @@ Scores by School Spending
 # Categorize the data into bins using cut() function
 # Create a dataframe for spending summary
 # Display results
- 
+ https://github.com/SonalBhosle23/pandas-challenge/blob/main/Scores%20by%20School%20Spending.png
 Scores by School Size
 
 #Scores by School Size
@@ -59,19 +61,20 @@ Scores by School Size
 
 # Create the names for the five bins
 # Categorize the data into bins using cut() function
+https://github.com/SonalBhosle23/pandas-challenge/blob/main/Scores%20by%20School%20Size.png
 #Scores by School Type
 #school_spending_df
 
 # Create a dataframe for spending summary
 # Display results
- 
+ https://github.com/SonalBhosle23/pandas-challenge/blob/main/Scores%20by%20School%20Spending.png
 Scores by School Type
 
 #Scores by School Type
 # Create a dataframe for spending summary
 # Display results
  
-
+https://github.com/SonalBhosle23/pandas-challenge/blob/main/Scores%20by%20School%20Type.png
 References:
 The following resources have been referred to complete this challenge:
 https://docs.python.org/3/library/functions.html?highlight=bin#bin
